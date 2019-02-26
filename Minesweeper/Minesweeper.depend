@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1551179373 source:d:\facultate\c++ games\minesweeper\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<iomanip>
+	<string.h>
+
